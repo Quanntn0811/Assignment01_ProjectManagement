@@ -1,0 +1,14 @@
+D:\University\semester-7\PRN221\Assignment01_ProjectManagement\ProjectManagement_BusinessObjects\bin\Debug\net6.0-windows\ProjectManagement_BusinessObjects.deps.json
+D:\University\semester-7\PRN221\Assignment01_ProjectManagement\ProjectManagement_BusinessObjects\bin\Debug\net6.0-windows\ProjectManagement_BusinessObjects.runtimeconfig.json
+D:\University\semester-7\PRN221\Assignment01_ProjectManagement\ProjectManagement_BusinessObjects\bin\Debug\net6.0-windows\ProjectManagement_BusinessObjects.dll
+D:\University\semester-7\PRN221\Assignment01_ProjectManagement\ProjectManagement_BusinessObjects\bin\Debug\net6.0-windows\ProjectManagement_BusinessObjects.pdb
+D:\University\semester-7\PRN221\Assignment01_ProjectManagement\ProjectManagement_BusinessObjects\obj\Debug\net6.0-windows\ProjectManagement_BusinessObjects.csproj.AssemblyReference.cache
+D:\University\semester-7\PRN221\Assignment01_ProjectManagement\ProjectManagement_BusinessObjects\obj\Debug\net6.0-windows\ProjectManagement_BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\semester-7\PRN221\Assignment01_ProjectManagement\ProjectManagement_BusinessObjects\obj\Debug\net6.0-windows\ProjectManagement_BusinessObjects.AssemblyInfoInputs.cache
+D:\University\semester-7\PRN221\Assignment01_ProjectManagement\ProjectManagement_BusinessObjects\obj\Debug\net6.0-windows\ProjectManagement_BusinessObjects.AssemblyInfo.cs
+D:\University\semester-7\PRN221\Assignment01_ProjectManagement\ProjectManagement_BusinessObjects\obj\Debug\net6.0-windows\ProjectManagement_BusinessObjects.csproj.CoreCompileInputs.cache
+D:\University\semester-7\PRN221\Assignment01_ProjectManagement\ProjectManagement_BusinessObjects\obj\Debug\net6.0-windows\ProjectManagement_BusinessObjects.dll
+D:\University\semester-7\PRN221\Assignment01_ProjectManagement\ProjectManagement_BusinessObjects\obj\Debug\net6.0-windows\refint\ProjectManagement_BusinessObjects.dll
+D:\University\semester-7\PRN221\Assignment01_ProjectManagement\ProjectManagement_BusinessObjects\obj\Debug\net6.0-windows\ProjectManagement_BusinessObjects.pdb
+D:\University\semester-7\PRN221\Assignment01_ProjectManagement\ProjectManagement_BusinessObjects\obj\Debug\net6.0-windows\ProjectManagement_BusinessObjects.genruntimeconfig.cache
+D:\University\semester-7\PRN221\Assignment01_ProjectManagement\ProjectManagement_BusinessObjects\obj\Debug\net6.0-windows\ref\ProjectManagement_BusinessObjects.dll

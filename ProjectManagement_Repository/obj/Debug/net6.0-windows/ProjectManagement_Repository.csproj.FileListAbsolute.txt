@@ -1,0 +1,17 @@
+D:\University\semester-7\PRN221\Assignment01_ProjectManagement\ProjectManagement_Repository\bin\Debug\net6.0-windows\ProjectManagement_Repository.deps.json
+D:\University\semester-7\PRN221\Assignment01_ProjectManagement\ProjectManagement_Repository\bin\Debug\net6.0-windows\ProjectManagement_Repository.dll
+D:\University\semester-7\PRN221\Assignment01_ProjectManagement\ProjectManagement_Repository\bin\Debug\net6.0-windows\ProjectManagement_Repository.pdb
+D:\University\semester-7\PRN221\Assignment01_ProjectManagement\ProjectManagement_Repository\obj\Debug\net6.0-windows\ProjectManagement_Repository.csproj.AssemblyReference.cache
+D:\University\semester-7\PRN221\Assignment01_ProjectManagement\ProjectManagement_Repository\obj\Debug\net6.0-windows\ProjectManagement_Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\semester-7\PRN221\Assignment01_ProjectManagement\ProjectManagement_Repository\obj\Debug\net6.0-windows\ProjectManagement_Repository.AssemblyInfoInputs.cache
+D:\University\semester-7\PRN221\Assignment01_ProjectManagement\ProjectManagement_Repository\obj\Debug\net6.0-windows\ProjectManagement_Repository.AssemblyInfo.cs
+D:\University\semester-7\PRN221\Assignment01_ProjectManagement\ProjectManagement_Repository\obj\Debug\net6.0-windows\ProjectManagement_Repository.csproj.CoreCompileInputs.cache
+D:\University\semester-7\PRN221\Assignment01_ProjectManagement\ProjectManagement_Repository\obj\Debug\net6.0-windows\ProjectManagement_Repository.dll
+D:\University\semester-7\PRN221\Assignment01_ProjectManagement\ProjectManagement_Repository\obj\Debug\net6.0-windows\refint\ProjectManagement_Repository.dll
+D:\University\semester-7\PRN221\Assignment01_ProjectManagement\ProjectManagement_Repository\obj\Debug\net6.0-windows\ProjectManagement_Repository.pdb
+D:\University\semester-7\PRN221\Assignment01_ProjectManagement\ProjectManagement_Repository\obj\Debug\net6.0-windows\ref\ProjectManagement_Repository.dll
+D:\University\semester-7\PRN221\Assignment01_ProjectManagement\ProjectManagement_Repository\bin\Debug\net6.0-windows\ProjectManagement_BusinessObjects.dll
+D:\University\semester-7\PRN221\Assignment01_ProjectManagement\ProjectManagement_Repository\bin\Debug\net6.0-windows\ProjectManagement_DAO.dll
+D:\University\semester-7\PRN221\Assignment01_ProjectManagement\ProjectManagement_Repository\bin\Debug\net6.0-windows\ProjectManagement_DAO.pdb
+D:\University\semester-7\PRN221\Assignment01_ProjectManagement\ProjectManagement_Repository\bin\Debug\net6.0-windows\ProjectManagement_BusinessObjects.pdb
+D:\University\semester-7\PRN221\Assignment01_ProjectManagement\ProjectManagement_Repository\obj\Debug\net6.0-windows\ProjectManagement_Repository.csproj.CopyComplete
